@@ -17,6 +17,8 @@ These regional time series will be extracted for EEG for the 5 characteristic fr
 The functional connectivities will be calculated (for each subject) using Pearson’s correlation for fNIRS (for each HBO and HBR) and weighted Phase Locked Value for EEG (for all the frequency bands). 
 
 
+To access my OneDrive folder, click 
+[here](https://sanoscience-my.sharepoint.com/:f:/g/personal/r_blanco_sanoscience_org/Ep8EL0t_EwRKsqVQQ4Cte-oB1tnxwY_gc2MlYf2YD0IUeg?email=c.koba%40sanoscience.org&e=gzVGow).
 
 
 

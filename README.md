@@ -18,7 +18,7 @@ The functional connectivities will be calculated (for each subject) using Pearso
 
 
 To access my OneDrive data folder, click 
-[here](https://sanoscience-my.sharepoint.com/:f:/g/personal/r_blanco_sanoscience_org/Ep8EL0t_EwRKsqVQQ4Cte-oBi6wBrGSR1Yk1n73T4ekpVg?e=hxVPLm).
+[here](https://sanoscience-my.sharepoint.com/:f:/g/personal/r_blanco_sanoscience_org/En2J2WWkjXdJmnLVNqlSKMoB3yKEGO8_FNC7VRoSNT_cwg?e=f9snCb).
 
 
 To download the BCT, click 

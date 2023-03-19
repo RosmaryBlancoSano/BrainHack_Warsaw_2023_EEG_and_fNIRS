@@ -125,11 +125,11 @@ for sub = 1:nsubs
         M = weight_conversion(M,'autofix');
         pli_gamma_full_norm(sub,side,:,:) = weight_conversion(M,'normalize');
         
-        M = squeeze(pli_gamma_full_clean(sub,side,:,:));
+        M = squeeze(hbo_full_clean(sub,side,:,:));
         M = weight_conversion(M,'autofix');
         hbo_full_norm(sub,side,:,:) = weight_conversion(M,'normalize');
         
-        M = squeeze(pli_gamma_full_clean(sub,side,:,:));
+        M = squeeze(hbr_full_clean(sub,side,:,:));
         M = weight_conversion(M,'autofix');
         hbr_full_norm(sub,side,:,:) = weight_conversion(M,'normalize');
     end
